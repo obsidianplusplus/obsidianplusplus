@@ -5,7 +5,7 @@
 
 ### 🚀 我的技术栈
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![TensorRT](https://img.shields.io/badge/TensorRT-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)![PyQt](https://img.shields.io/badge/pyqt-41cd52?style=for-the-badge&logo=qt&logoColor=white)![Minecraft](https://img.shields.io/badge/Minecraft-62a366?style=for-the-badge&logo=minecraft&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![TensorRT](https://img.shields.io/badge/TensorRT-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)![PyQt](https://img.shields.io/badge/pyqt-41cd52?style=for-the-badge&logo=qt&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
