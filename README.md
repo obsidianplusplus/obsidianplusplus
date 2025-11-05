@@ -15,15 +15,11 @@
 
 *   **[YOLOv5-TensorRT-Accelerator](https://github.com/obsidianplusplus/YOLOv5-TensorRT-Accelerator)**: 基于 TensorRT 加速的 YOLOv5 高性能推理框架，支持动态优化。
 *   **[SpeechRecognition](https://github.com/obsidianplusplus/SpeechRecognition)**: 🎤 一款基于 PyQt 的音频转文本工具，支持多种 Whisper 模型和 GPU 加速。
-*   **[PandaGPT](https://github.com/obsidianplusplus/PandaGPT)**: 🐼 将 GPT 融入 Minecraft，实现环境与命令感知，带来全新游戏体验。
 *   **[InventoryOptimizer](https://github.com/obsidianplusplus/InventoryOptimizer)**: 🧬 利用遗传算法，对 Minecraft 玩家背包进行智能偏好排序。
 
 #### 🎮 游戏开发与模组
 
 *   **[EntityAnalyzer](https://github.com/obsidianplusplus/EntityAnalyzer)**: 📈 使用机器学习检测和可视化《我的世界》中的实体延迟，优化服务器性能。
-*   **[NoSpawnChunks](https://github.com/obsidianplusplus/NoSpawnChunks)**: 🧱 通过智能卸载非活动世界的区块来减少 Minecraft 服务器的内存占用。
-*   **[AntiAutoFish](https://github.com/obsidianplusplus/AntiAutoFish)**: 🎣 一款用于检测和阻止 Minecraft 服务器中自动钓鱼行为的插件。
-*   **[7mod_tool](https://github.com/obsidianplusplus/7mod_tool)**: 🧟‍♂️ 为《7 Days to Die》设计的高效模组管理工具，支持自动复制与更新。
 
 #### 🛠️ 开发工具与实用程序
 
